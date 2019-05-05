@@ -203,6 +203,7 @@ A collection of delicious docker recipes.
 - [x] hans
 - [x] haproxy-arm
 - [x] kcptun :cn:
+- [x] mtproxy
 - [x] mysql-proxy
 - [x] ngrok :+1:
 - [x] obfsproxy
@@ -253,6 +254,8 @@ A collection of delicious docker recipes.
 - [x] tutum/builder
 - [x] browserless/chrome
 - [x] certbot
+- [x] confluentinc/cp-kafka-mqtt
+- [x] confluentinc/cp-kafka-rest
 - [x] streamsets/datacollector
 - [x] cachethq/docker
 - [x] puckel/docker-airflow
@@ -291,6 +294,7 @@ A collection of delicious docker recipes.
 - [x] pihole/pihole
 - [x] portainer/portainer :+1:
 - [x] postgres
+- [x] postgrest/postgrest
 - [x] registry
 - [x] rocket.chat
 - [x] scrapinghub/splash
@@ -302,6 +306,7 @@ A collection of delicious docker recipes.
 - [x] amancevice/superset
 - [x] v2ray/official :cn:
 - [x] centurylink/watchtower
+- [x] anapsix/webdis
 - [x] wekanteam/wekan
 - [x] yourls
 - [x] zookeeper
